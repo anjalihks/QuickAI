@@ -9,7 +9,7 @@
 ---
 
 ## Demo
-- **Live demo:** _quick-ai-iota-one.vercel.app_  
+- **Live demo:** _(quick-ai-iota-one.vercel.app)_  
 
 ---
 
