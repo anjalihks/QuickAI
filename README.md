@@ -8,11 +8,6 @@
 
 ---
 
-## Demo
-- **Live demo:** _(quick-ai-iota-one.vercel.app)_  
-
----
-
 ## Key Features
 
 - ✍️ **Write Article** — AI-assisted long-form article generation and editor with versioning and export (Markdown / HTML).
