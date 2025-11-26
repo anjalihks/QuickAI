@@ -9,7 +9,7 @@
 ---
 
 ## Demo
-- **Live demo:** _(add your deployed URL here)_  
+- **Live demo:** _quick-ai-iota-one.vercel.app_  
 
 ---
 
